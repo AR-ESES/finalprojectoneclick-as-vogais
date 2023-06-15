@@ -1,2 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cjPY6057)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11344895&assignment_repo_type=AssignmentRepo)
+##AS VOGAIS PROJETO FINAL##
+
+Recursos disponíveis em: https://drive.google.com/drive/folders/16ejVOsOXSY65NCjIc00O8AiDfJMy8z8R?usp=sharing
+
+![Ecrajogar](jogar.png "Jogar ecrã")
+
+##SOBRE O JOGO##
+
+
+##PÚBLICO ALVO##
+
+![Inicio](inicio.png "Inicio ecrã")
+
