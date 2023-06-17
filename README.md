@@ -5,7 +5,9 @@ Recursos disponíveis em: https://drive.google.com/drive/folders/16ejVOsOXSY65NC
 ![Ecrajogar](jogar.png "Jogar ecrã")
 
 ## SOBRE O JOGO ##
+Bem-vindo ao maravilhoso mundo do jogo das vogais! Este jogo educacional é projetado para ajudar as crianças a aprender e aprimorar suas habilidades na identificação e no reconhecimento das vogais. As vogais são as letras fundamentais do alfabeto, e conhecê-las é essencial para construir uma base sólida na alfabetização e na leitura.
 
+O jogo das vogais é divertido e envolvente, com o objetivo de tornar o processo de aprendizado uma experiência prazerosa. Ele utiliza uma variedade de atividades interativas para ensinar às crianças sobre as vogais de forma interativa. 
 
 ## PÚBLICO ALVO ##
 
